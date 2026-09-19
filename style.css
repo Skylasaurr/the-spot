@@ -292,7 +292,7 @@
             gap: 40px;
         }
 
-        footer a {
+        footer .link{
             text-decoration: none;
             color: var(--light);
         }
